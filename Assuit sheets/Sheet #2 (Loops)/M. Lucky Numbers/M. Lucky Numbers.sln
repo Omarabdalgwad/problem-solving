@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M. Lucky Numbers", "M. Lucky Numbers.vcxproj", "{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Debug|x64.ActiveCfg = Debug|x64
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Debug|x64.Build.0 = Debug|x64
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Debug|x86.Build.0 = Debug|Win32
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Release|x64.ActiveCfg = Release|x64
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Release|x64.Build.0 = Release|x64
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Release|x86.ActiveCfg = Release|Win32
+		{ED5F9716-D230-4754-8B3E-7B5C065E1FD3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF4B7E78-BA5C-4584-A36C-50499FF0A660}
+	EndGlobalSection
+EndGlobal
