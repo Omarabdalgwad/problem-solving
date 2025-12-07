@@ -1,0 +1,13 @@
+
+*.user
+*.suo
+*.tmp
+*.log
+*.bak
+.vs/
+bin/
+obj/
+Debug/
+Release/
+
+!*.cpp

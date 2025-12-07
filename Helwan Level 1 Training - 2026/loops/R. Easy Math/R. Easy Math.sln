@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "R. Easy Math", "R. Easy Math.vcxproj", "{EF78FDED-F03F-4247-BA4A-6A4779298BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Debug|x64.ActiveCfg = Debug|x64
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Debug|x64.Build.0 = Debug|x64
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Debug|x86.Build.0 = Debug|Win32
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Release|x64.ActiveCfg = Release|x64
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Release|x64.Build.0 = Release|x64
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Release|x86.ActiveCfg = Release|Win32
+		{EF78FDED-F03F-4247-BA4A-6A4779298BD7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C1B580-7F96-4197-AB9B-54EBECBE386E}
+	EndGlobalSection
+EndGlobal
