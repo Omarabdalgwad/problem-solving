@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cf3984e5-a35f-48fc-957d-587ef75dc19b}</ProjectGuid>
-    <RootNamespace>ASummation</RootNamespace>
+    <ProjectGuid>{476ebef5-b3f6-461b-9fe4-a2135a4c8c93}</ProjectGuid>
+    <RootNamespace>BSearching</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="A. Summation.cpp" />
+    <ClCompile Include="B. Searching.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
