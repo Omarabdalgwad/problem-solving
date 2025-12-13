@@ -1,6 +1,6 @@
+
 #include <iostream>
 using namespace std;
-
 int main()
 {
     long long N;
@@ -10,13 +10,10 @@ int main()
         cin >> arr[i];
     }
     for (int i = 0; i < N; i++) {
-        if (arr[i] > 0) {
-            arr[i] = 1;
+        if (arr[i] <= 10) {
+            cout << "A[" << i << "] = " << arr[i] << endl;
         }
-        else if (arr[i] < 0) {
-            arr[i] = 2;
-        }
-        cout << arr[i]<<" ";
     }
+
 }
 
