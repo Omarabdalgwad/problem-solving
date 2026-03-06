@@ -1,22 +1,20 @@
-
 #include <iostream>
+#include <algorithm>
 using namespace std;
+
 int main()
 {
-	long long N;
-	cin >> N;
-	long long arr[100000];
-	for (int i = 0; i < N; i++) {
-		cin >> arr[i];
-	}
+  long long N;
+  cin>>N;
+  int arr[N];
+  for(int i=0;i<N;i++){
+    cin>>arr[i];
+  }
+  int min = *min_element(arr+0,arr+N);
 
-	long long mn = arr[0];
-	int index = 0;
-	for (int i = 0; i < N; i++) {
-		if (mn>arr[i]) {
-			mn = arr[i];
-			index = i ;
-		}
-	}cout << mn << " " << index+1;
-}
-
+  for(int i=0;i<N;i++){
+    if(arr[i]==min){
+        cout<<min<<" "<<i+1; return 0;
+    }
+  }
+  
