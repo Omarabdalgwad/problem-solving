@@ -5,7 +5,7 @@ int main()
 {
    long long N;
    cin>>N;
-   long long arr[N];
+   long long arr[N+1];
    for(int i=1;i<=N;i++){
      cin>>arr[i];
    }
